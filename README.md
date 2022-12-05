@@ -1,2 +1,63 @@
 # rules
 小米电视广告规则
+
+## 其他规则
+* https://cdn.jsdelivr.net/gh/lhbill/xiaomiad@master/xiaomi.txt  
+* https://anti-ad.net/easylist.txt  
+
+## hosts规则列表
+```
+127.0.0.1 logonext.tv.kuyun.com
+127.0.0.1 api.ad.xiaomi.com
+127.0.0.1 ad.mi.com
+127.0.0.1 ad.xiaomi.com
+127.0.0.1 ad1.xiaomi.com
+127.0.0.1 tat.pandora.xiaomi.com
+127.0.0.1 api.ad.xiaomi.com
+127.0.0.1 t7z.cupid.ptqy.gitv.tv
+127.0.0.1 ad.xiaomi.com
+127.0.0.1 api.ad.xiaomi.com
+127.0.0.1 sdkconfig.ad.xiaomi.com
+127.0.0.1 stat.pandora.xiaomi.com
+127.0.0.1 upgrade.mishop.pandora.xiaomi.com
+127.0.0.1 logonext.tv.kuyun.com
+127.0.0.1 config.kuyun.com
+127.0.0.1 mishop.pandora.xiaomi.com
+127.0.0.1 dvb.pandora.xiaomi.com
+127.0.0.1 api.ad.xiaomi.com
+127.0.0.1 de.pandora.xiaomi.com
+127.0.0.1 data.mistat.xiaomi.com
+127.0.0.1 jellyfish.pandora.xiaomi.com
+127.0.0.1 gallery.pandora.xiaomi.com
+127.0.0.1 bss.pandora.xiaomi.com
+127.0.0.1 gvod.aiseejapp.atianqi.com
+127.0.0.1 sdkauth.hpplay.cn
+127.0.0.1 adeng.hpplay.cn
+127.0.0.1 ad.hpplay.cn
+127.0.0.1 conf.hpplay.cn
+127.0.0.1 fix.hpplay.cn
+127.0.0.1 ad.hpplay.cn
+127.0.0.1 rp.hpplay.cn
+127.0.0.1 logrp.hpplay.cn
+127.0.0.1 v.admaster.com.cn
+127.0.0.1 adeng.hpplay.cn
+127.0.0.1 ad.mi.com
+127.0.0.1 ad.xiaomi.com
+127.0.0.1 ad1.xiaomi.com
+127.0.0.1 f1.market.xiaomi.com
+127.0.0.1 f2.market.xiaomi.com
+127.0.0.1 f3.market.xiaomi.com
+127.0.0.1 f4.market.xiaomi.com
+127.0.0.1 f5.market.xiaomi.com
+127.0.0.1 f1.market.mi-img.com
+127.0.0.1 f2.market.mi-img.com
+127.0.0.1 f3.market.mi-img.com
+127.0.0.1 f4.market.mi-img.com
+127.0.0.1 f5.market.mi-img.com
+127.0.0.1 api.ad.xiaomi.com
+127.0.0.1 ad.doubleclick.net
+127.0.0.1 bss.pandora.xiaomi.com
+127.0.0.1 broker.mqtt.pandora.xiaomi.com
+127.0.0.1 config.kuyun.com
+127.0.0.1 t7z.cupid.ptqy.gitv.tv
+```
